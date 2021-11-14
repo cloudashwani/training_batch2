@@ -1,0 +1,13 @@
+Airthmetic  			+ - * % /
+Assignment 				+= -= /=
+logical(short circuit)	&& || ! 
+ternary 				?:
+conditional 			> >= < <= == !=
+Unary 					++ --						
+shift or bitwise		>> << ~ ^ & |					operation on bitwise  
+comma 					, 							for(int a=10, b=20)
+dot						.							Object.members
+intanceof				intanceof					
+
+
+
